@@ -1,0 +1,23 @@
+{
+  "name": "formulario",
+  "version": "1.0.0",
+  "description": "Prueva Tecnica",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Marvin Mazariegos",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "js": "^0.1.0",
+    "moment": "^2.29.4",
+    "mongoose": "^7.4.3",
+    "nodemon": "^3.0.1"
+  }
+}
